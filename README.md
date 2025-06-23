@@ -14,3 +14,7 @@ Construir um sistema que dá pirueta na frente do ganso e depois uma rodada late
 ## Diagrama em Blocos
 
 <img src="https://github.com/valerio-unifei/ECOP11A-Projeto-Final/blob/main/img/Diagrama_blocos_projeto.png" />
+
+## Foto do Protótipo
+
+<img src="" />
