@@ -17,4 +17,4 @@ Construir um sistema que dá pirueta na frente do ganso e depois uma rodada late
 
 ## Foto do Protótipo
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/valerio-unifei/ECOP11A-Projeto-Final/refs/heads/main/img/Foto_projeto.webp" />
