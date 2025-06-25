@@ -36,7 +36,7 @@ Desenvolver um sistema que acalme e controle as aves em torno do lago, gerando p
 
 ### Diagrama esquemático
 
-<img src="https://github.com/valerio-unifei/ECOP11A-Projeto-Final/blob/main/img/Diagrama_blocos_projeto.png" />
+<img src="https://raw.githubusercontent.com/valerio-unifei/ECOP11A-Projeto-Final/refs/heads/main/img/Diagrama-esquematico.PNG" />
 
 ## Fase 3: Documentação e apresentação
 
@@ -50,5 +50,5 @@ Desenvolver um sistema que acalme e controle as aves em torno do lago, gerando p
 
 ### Apresentação de slides
 
-[Apresentação](https)
+[Apresentação](https://github.com/valerio-unifei/ECOP11A-Projeto-Final/blob/main/docs/ECOP11A%20-%202025.1%20-%20Plano%20de%20Ensino.pdf)
 
